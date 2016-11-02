@@ -1,11 +1,7 @@
 ---
 title: "PHP: SortingIterator"
+date: 2008-09-08
 ---
-Mo
-08
-Sep
-2008
-
 I just had the need for an Iterator that can sort itself by a user defined callback.
 
 My special use case is that the DirectoryIterator of PHP does not sort the file list so it's pretty random. But my program logic relies on files being sorted by filename.

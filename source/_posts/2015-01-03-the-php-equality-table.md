@@ -1,11 +1,7 @@
 ---
 title:  The PHP Equality Table
+date: 2015-01-03
 ---
-Sa
-03
-Jan
-2015
-
 Inspired by the "[JavaScript Equality Table](http://dorey.github.io/JavaScript-Equality-Table/ "http://dorey.github.io/JavaScript-Equality-Table/")" I created the same table for PHP:
 
 ![](https://image.jimcdn.com/app/cms/image/transf/none/path/sa96aabd4fda6ca54/image/i03b1307897534120/version/1420287877/image.png)

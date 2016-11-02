@@ -1,11 +1,7 @@
 ---
 title:  PuppetConf 2013 recap
+date: 2013-09-25
 ---
-Mi
-25
-Sep
-2013
-
 Better late then never. Here's my little puppetconf 2013 recap.
 
 ## Day 1

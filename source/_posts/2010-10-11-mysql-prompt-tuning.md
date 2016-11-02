@@ -1,11 +1,7 @@
 ---
 title:  mysql prompt tuning
+date: 2010-10-11
 ---
-Mo
-11
-Okt
-2010
-
 mysql \* devop
 
 `mysql> prompt (\u@\h) [\d]>  

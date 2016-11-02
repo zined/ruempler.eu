@@ -1,11 +1,7 @@
 ---
 title:  devopsdays in hamburg
+date: 2010-10-17
 ---
-So
-17
-Okt
-2010
-
 the last weekend i attended to **[devopsdays](http://www.devopsdays.org/)** in hamburg. first thanks to **[patrick debois](http://twitter.com/#!/patrickdebois)** and **[marcel wegermann](http://pc0fc2375091e8a53)** for doing a
 really great job of conference organisation. and thanks to the sponsors making the location, food and beer possible ;)
 

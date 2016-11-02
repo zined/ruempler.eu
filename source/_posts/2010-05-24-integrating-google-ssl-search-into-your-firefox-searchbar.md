@@ -1,11 +1,7 @@
 ---
 title:  Integrating Google SSL Search into your Firefox Searchbar
+date: 2010-05-24
 ---
-Mo
-24
-Mai
-2010
-
 [Google search is now also possible via SSL](http://googleblog.blogspot.com/2010/05/search-more-securely-with-encrypted.html). If you are paranoid like me you might
 wanna have it enabled by default - while there are [several firefox plugins](https://addons.mozilla.org/en-US/firefox/addon/161901/) around there, here's how to do it
 on your own:

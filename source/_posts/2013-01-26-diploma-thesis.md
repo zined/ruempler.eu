@@ -1,11 +1,7 @@
 ---
 title:  Diploma thesis
+date: 2013-01-26
 ---
-Sa
-26
-Jan
-2013
-
 knowledgemanagement \* devops \* agile \* lean \* business \* systemstheory \* systemsthinking
 
 Disclaimer: German.

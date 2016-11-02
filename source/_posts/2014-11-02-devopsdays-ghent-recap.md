@@ -1,11 +1,7 @@
 ---
 title:  devopsdays Ghent recap
+date: 2014-11-02
 ---
-So
-02
-Nov
-2014
-
 devops \* devopsdays \* culture
 
 **!!! ATTENTION: Highly unstructured braindump content !!!**

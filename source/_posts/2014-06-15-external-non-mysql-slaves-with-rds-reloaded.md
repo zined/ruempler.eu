@@ -1,11 +1,7 @@
 ---
 title:  External MySQL slaves with RDS reloaded
+date: 2014-06-15
 ---
-So
-15
-Jun
-2014
-
 mysql \* rds \* master \* slave \* replica
 
 In [an earlier first post](/2013/07/07/replicating-aws-rds-mysql-databases-to-external-slaves/ "Replicating AWS RDS MySQL databases to external slaves") I demonstrated a way to
