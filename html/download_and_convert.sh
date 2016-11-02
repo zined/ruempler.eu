@@ -14,9 +14,10 @@ IGNORECASE=1
 }' - | sort | uniq | grep -P '^/\d{4}/' | grep -v 'commentsModule')
 
 for entry in $blog_entries; do
-    filename="${entry//\//-}".md
+    filename="${entry//\//-}".html
     filename="${filename/-/}"
-    filename="${filename/-.md/.md}"
+    filename="${filename/-.html/.html}"
 	curl www.ruempler.eu$entry > $filename 
+    ../node_modules/.bin/htmlmd -i $filename
 done
 
