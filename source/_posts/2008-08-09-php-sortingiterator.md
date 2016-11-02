@@ -1,13 +1,3 @@
-* [start ...][0]
-* [blog][1]
-* [open source][2]
-* [contact][3]
-
-* [start ...][0]
-* [blog][1]
-* [open source][2]
-* [contact][3]
-
 # PHP: SortingIterator
 Mo
 08

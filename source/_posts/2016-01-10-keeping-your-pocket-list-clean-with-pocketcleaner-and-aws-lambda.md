@@ -1,13 +1,3 @@
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
 # Keeping your Pocket list clean with pocketcleaner and AWS Lambda
 So
 10

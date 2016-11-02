@@ -1,13 +1,3 @@
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
 # puppet-rspec debugging
 Di
 03

@@ -1,13 +1,3 @@
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
 # How to install and use a newer version (3.x) of NPM on AWS Lambda.
 Di
 19

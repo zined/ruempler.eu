@@ -1,13 +1,3 @@
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
 # Integrating Google SSL Search into your Firefox Searchbar
 Mo
 24

@@ -1,13 +1,3 @@
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
-* [start ...](/)
-* [blog](/blog/)
-* [open source](/open-source/)
-* [contact](/contact/)
-
 # The PHP Equality Table
 Sa
 03
