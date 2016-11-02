@@ -1,5 +1,5 @@
 ---
-title:  rdiff-backup: the easiest way to backup (and restore)
+title: "rdiff-backup: the easiest way to backup (and restore)"
 ---
 So
 11
