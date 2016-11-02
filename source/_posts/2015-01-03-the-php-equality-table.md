@@ -1,4 +1,6 @@
-# The PHP Equality Table
+---
+title:  The PHP Equality Table
+---
 Sa
 03
 Jan

@@ -1,4 +1,6 @@
-# devopsdays Ghent recap
+---
+title:  devopsdays Ghent recap
+---
 So
 02
 Nov

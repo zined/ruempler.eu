@@ -1,4 +1,6 @@
-# Keeping your Pocket list clean with pocketcleaner and AWS Lambda
+---
+title:  Keeping your Pocket list clean with pocketcleaner and AWS Lambda
+---
 So
 10
 Jan

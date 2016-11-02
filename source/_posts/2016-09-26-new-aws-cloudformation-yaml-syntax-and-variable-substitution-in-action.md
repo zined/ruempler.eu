@@ -1,4 +1,6 @@
-# New AWS CloudFormation YAML syntax and variable substitution in action
+---
+title:  New AWS CloudFormation YAML syntax and variable substitution in action
+---
 Mo
 26
 Sep

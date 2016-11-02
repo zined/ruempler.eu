@@ -1,4 +1,6 @@
-# mysql prompt tuning
+---
+title:  mysql prompt tuning
+---
 Mo
 11
 Okt

@@ -1,4 +1,6 @@
-# Diploma thesis
+---
+title:  Diploma thesis
+---
 Sa
 26
 Jan

@@ -1,4 +1,6 @@
-# Replicating AWS RDS MySQL databases to external slaves
+---
+title:  Replicating AWS RDS MySQL databases to external slaves
+---
 So
 07
 Jul

@@ -1,4 +1,6 @@
-# External MySQL slaves with RDS reloaded
+---
+title:  External MySQL slaves with RDS reloaded
+---
 So
 15
 Jun

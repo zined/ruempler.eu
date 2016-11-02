@@ -1,4 +1,6 @@
-# PuppetConf 2013 recap
+---
+title:  PuppetConf 2013 recap
+---
 Mi
 25
 Sep

@@ -1,4 +1,6 @@
-# puppet-rspec debugging
+---
+title:  puppet-rspec debugging
+---
 Di
 03
 Apr

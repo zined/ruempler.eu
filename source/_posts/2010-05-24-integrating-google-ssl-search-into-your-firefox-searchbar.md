@@ -1,4 +1,6 @@
-# Integrating Google SSL Search into your Firefox Searchbar
+---
+title:  Integrating Google SSL Search into your Firefox Searchbar
+---
 Mo
 24
 Mai

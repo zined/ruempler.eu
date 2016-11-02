@@ -1,4 +1,6 @@
-# How to install and use a newer version (3.x) of NPM on AWS Lambda.
+---
+title:  How to install and use a newer version (3.x) of NPM on AWS Lambda.
+---
 Di
 19
 Jul
