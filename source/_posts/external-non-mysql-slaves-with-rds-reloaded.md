@@ -2,8 +2,6 @@
 title:  External MySQL slaves with RDS reloaded
 date: 2014-06-15
 ---
-mysql \* rds \* master \* slave \* replica
-
 In [an earlier first post](/2013/07/07/replicating-aws-rds-mysql-databases-to-external-slaves/ "Replicating AWS RDS MySQL databases to external slaves") I demonstrated a way to
 connect an external slave to a running RDS instance. Later then AWS added the native possibility to import and export via replication.
 

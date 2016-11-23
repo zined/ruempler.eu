@@ -114,15 +114,3 @@ Some additional learnings:
 
 * Downloading and installing NPM every time the build step is executed makes it more flaky (remember the fallacies of networking!). It also reduces the available execution time by 10 seconds
 (the time it takes to download and install NPM). One could pack the installed npm version as an own Lambda function in order to decouple it. But that's a topic for another blog post. 
-
-[Kommentar schreiben](#)
-
-Kommentare: _0_ 
-
-* 1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen](http://www.ruempler.eu/j/shop/deliveryinfo)  
-
-[Impressum](/about/) | [Datenschutz](/j/privacy) 
-
-[Abmelden ](https://e.jimdo.com/app/cms/logout.php)
-|
-[Bearbeiten](https://a.jimdo.com/app/auth/signin/jumpcms/?page=2043680293)

@@ -9,8 +9,7 @@ Before digging deeper in the topic, let's try to find a definition for 'simple s
 `myapp`, please give me (for example) my database and cache endpoints, and service Y which I rely on", so the service consumer and service announcer need to speak a common language,
 and we need no manual human interaction. This is at least how [Wikipedia](http://en.wikipedia.org/wiki/Service_discovery "http://en.wikipedia.org/wiki/Service_discovery") defines service discovery protocols:
 
-> Service discovery protocols (SDP) are network protocols which allow automatic detection of devices and services offered by these devices on a computer network. Service discovery requires a common
-> language to allow software agents to make use of one another's services without the need for continuous user intervention.
+> Service discovery protocols (SDP) are network protocols which allow automatic detection of devices and services offered by these devices on a computer network. Service discovery requires a common language to allow software agents to make use of one another's services without the need for continuous user intervention.
 
 **So back to the topic. You might think: Why not use Consul, Etcd, SkyDNS etcpp? **
 
