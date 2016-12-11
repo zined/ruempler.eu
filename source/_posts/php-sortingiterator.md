@@ -74,34 +74,3 @@ Then the sorted array is wrapped into an ArrayIterator so it can be used with al
     /home/soenke/tests/test/b.txt
     /home/soenke/tests/test/ä.txt
     
-    
-
-[Kommentar schreiben][4]
-
-Kommentare: _1_ 
-
-* **\#1**
-
-**Alisson** (_Mittwoch, 21 August 2013 23:21_)
-
-Muito bom, isso realmente resolveu meu problema aqui.
-* 
-1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen][5]  
-
-[Impressum][6] | [Datenschutz][7] 
-
-[Abmelden ][8]
-|
-[Bearbeiten][9]
-
-
-[0]: /
-[1]: /blog/
-[2]: /open-source/
-[3]: /contact/
-[4]: #
-[5]: http://www.ruempler.eu/j/shop/deliveryinfo
-[6]: /about/
-[7]: /j/privacy
-[8]: https://e.jimdo.com/app/cms/logout.php
-[9]: https://a.jimdo.com/app/auth/signin/jumpcms/?page=27218802

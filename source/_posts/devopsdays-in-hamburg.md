@@ -39,15 +39,3 @@ Thanks all people involved. I really appreciate the devops movement. Feels like 
 Did i miss something? Wrote bullshit? Tell me in the comments ;)
 
 ![aftershow party](https://image.jimcdn.com/app/cms/image/transf/dimension=480x10000:format=jpg/path/sa96aabd4fda6ca54/image/i118af45b92297b4c/version/1287353273/image.jpg)aftershow party
-
-[Kommentar schreiben](#)
-
-Kommentare: _0_ 
-
-* 1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen](http://www.ruempler.eu/j/shop/deliveryinfo)  
-
-[Impressum](/about/) | [Datenschutz](/j/privacy) 
-
-[Abmelden ](https://e.jimdo.com/app/cms/logout.php)
-|
-[Bearbeiten](https://a.jimdo.com/app/auth/signin/jumpcms/?page=275840714)

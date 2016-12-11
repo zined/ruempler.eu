@@ -27,20 +27,3 @@ Adobe Acrobat Dokument
 
 [Download](http://www.ruempler.eu/app/download/7068269248/Diplomarbeit.pdf?t=1359201160)
 
-[Kommentar schreiben](#)
-
-Kommentare: _1_ 
-
-* **\#1**
-
-**Krischan** (_Freitag, 08 März 2013 22:15_)
-
-Nice... hab zwar nur die Hälfte verstanden, aber egal.
-* 
-1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen](http://www.ruempler.eu/j/shop/deliveryinfo)  
-
-[Impressum](/about/) | [Datenschutz](/j/privacy) 
-
-[Abmelden ](https://e.jimdo.com/app/cms/logout.php)
-|
-[Bearbeiten](https://a.jimdo.com/app/auth/signin/jumpcms/?page=1399187848)

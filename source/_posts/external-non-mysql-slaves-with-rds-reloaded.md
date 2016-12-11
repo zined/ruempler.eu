@@ -135,29 +135,3 @@ Now follow the steps 5-8 and 10 from above.
 You should have a running external read slave which is connected to the RDS master by now. You may delete the RDS read replica again as well.  
   
 **Happy replicating!**
-
-[Kommentar schreiben](#)
-
-Kommentare: _2_ 
-
-* **\#1**
-
-**Ian** (_Freitag, 26 September 2014 23:18_)
-
-This is an invaluable article, and I wholly concur that the AWS documentation on this topology is wildly lacking (though probably for good reason - they don't want to support it). I too noticed the
-phrasing issue and reported the discrepancy to them; months later, it is still present. I stumbled on this after I had inquired the same questions to AWS support as to how to perform this sort of
-thing without incurring downtime or undue activity on a production master. They essentially replied with exactly what you proposed here. :) Keep up the good work.
-* **\#2**
-
-**gwu** (_Montag, 13 Oktober 2014 10:19_)
-
-If you upgraded your RDS mysql server to 5.6 you may experience the problem with "GRANT REPLICATION SLAVE ..." (access denied), if so you just need to RESET your master user's password and it will
-magically refresh your master user privileges to include the privilege to grant replication slave.
-* 
-1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen](http://www.ruempler.eu/j/shop/deliveryinfo)  
-
-[Impressum](/about/) | [Datenschutz](/j/privacy) 
-
-[Abmelden ](https://e.jimdo.com/app/cms/logout.php)
-|
-[Bearbeiten](https://a.jimdo.com/app/auth/signin/jumpcms/?page=1757011593)

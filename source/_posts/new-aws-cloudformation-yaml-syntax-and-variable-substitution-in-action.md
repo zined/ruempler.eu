@@ -67,23 +67,4 @@ This example creates an SNS topic with an email subscription which is once again
 
 ## Recap
 
-With the new syntax it's now possible to create YAML syntax, and we have nice shortcuts for commonly used functions. My personal highlight is the shorthand substitution syntax, esp. when
-using inline Lambda functions.
-
-[Kommentar schreiben](#)
-
-Kommentare: _1_ 
-
-* **\#1**
-
-[Paul Coady](https://backspace.academy/) (_Donnerstag, 29 September 2016 17:08_)
-
-I just picked this up from the AWS Week in Review. Nice work! Good to see I'm not the only one that loves to see the end of messy code.
-* 
-1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen](http://www.ruempler.eu/j/shop/deliveryinfo)  
-
-[Impressum](/about/) | [Datenschutz](/j/privacy) 
-
-[Abmelden ](https://e.jimdo.com/app/cms/logout.php)
-|
-[Bearbeiten](https://a.jimdo.com/app/auth/signin/jumpcms/?page=2068964793)
+With the new syntax it's now possible to create YAML syntax, and we have nice shortcuts for commonly used functions. My personal highlight is the shorthand substitution syntax, esp. when using inline Lambda functions.

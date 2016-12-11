@@ -105,19 +105,5 @@ Generally having a look at Domain Driven Design and orienting (e. g. using repos
 ### Other Recaps
 
 * [HangOps](http://t.co/P5iyFIZKnL)
-* 
-[InfoQ Day 1](https://gist.github.com/s0enke/0ac2f6a0cce307d9cddc)
-* 
-[InfoQ Day 2](http://www.infoq.com/news/2014/10/devops-days-belgium-2)
-
-[Kommentar schreiben](#)
-
-Kommentare: _0_ 
-
-* 1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen](http://www.ruempler.eu/j/shop/deliveryinfo)  
-
-[Impressum](/about/) | [Datenschutz](/j/privacy) 
-
-[Abmelden ](https://e.jimdo.com/app/cms/logout.php)
-|
-[Bearbeiten](https://a.jimdo.com/app/auth/signin/jumpcms/?page=1993727093)
+* [InfoQ Day 1](https://gist.github.com/s0enke/0ac2f6a0cce307d9cddc)
+* [InfoQ Day 2](http://www.infoq.com/news/2014/10/devops-days-belgium-2)

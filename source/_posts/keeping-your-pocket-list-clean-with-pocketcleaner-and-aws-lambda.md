@@ -8,17 +8,4 @@ Some days ago I found out that Daniel (mrtazz) developed a nice tool named [pock
 know me might already have an idea :) I don't like servers in terms infrastructure that I have to maintain. So I thought **AWS Lambda to the rescue**!
 
 And here it is: An [Ansible playbook](https://github.com/s0enke/pocketcleaner-ansible "https://github.com/s0enke/pocketcleaner-ansible") which setups a Lambda
-function which downloads, configures and executes the Go binary. It can be triggered by a AWS event timer. No servers, just a few cents per month (maximum!) for AWS traffic and Lambda execution
-costs.
-
-[Kommentar schreiben](#)
-
-Kommentare: _0_ 
-
-* 1 Gilt für Lieferungen in folgendes Land: Deutschland. Lieferzeiten für andere Länder und Informationen zur Berechnung des Liefertermins siehe hier: [Liefer- und Zahlungsbedingungen](http://www.ruempler.eu/j/shop/deliveryinfo)  
-
-[Impressum](/about/) | [Datenschutz](/j/privacy) 
-
-[Abmelden ](https://e.jimdo.com/app/cms/logout.php)
-|
-[Bearbeiten](https://a.jimdo.com/app/auth/signin/jumpcms/?page=2010665393)
+function which downloads, configures and executes the Go binary. It can be triggered by a AWS event timer. No servers, just a few cents per month (maximum!) for AWS traffic and Lambda execution costs.
